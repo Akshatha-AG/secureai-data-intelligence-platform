@@ -1,0 +1,45 @@
+2026-03-25 10:00:01 INFO User login initiated
+email=user1@gmail.com
+password=pass123
+
+2026-03-25 10:01:10 INFO API request sent
+api_key=sk-prod-abc123xyz
+
+2026-03-25 10:02:22 WARN Token generated
+token=tok-98765abcde
+
+2026-03-25 10:03:45 INFO Contact update
+phone=9876543210
+
+2026-03-25 10:04:00 ERROR NullPointerException at service.java:45
+StackTrace: java.lang.NullPointerException
+
+2026-03-25 10:05:12 INFO User login failed
+invalid password
+
+2026-03-25 10:05:20 INFO User login failed
+failed login attempt
+
+2026-03-25 10:05:28 INFO User login failed
+failed login attempt
+
+2026-03-25 10:06:30 INFO User login successful
+email=admin@company.com
+
+2026-03-25 10:07:45 DEBUG Debug mode enabled
+
+2026-03-25 10:08:10 INFO Payment processing
+api_key=sk-test-xyz987
+
+2026-03-25 10:09:55 ERROR Database connection failed
+Traceback (most recent call last):
+Exception: Connection refused
+
+2026-03-25 10:10:20 INFO New user registered
+email=newuser@test.com
+password=newpass456
+
+2026-03-25 10:11:30 WARN Suspicious activity detected
+token=suspicious-token-111
+
+2026-03-25 10:12:00 INFO Session ended
