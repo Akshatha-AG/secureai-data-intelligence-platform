@@ -45,21 +45,27 @@ This project provides an AI-powered Secure Data Intelligence Platform that:
 User Input (File)
 
 ↓
+
 Parser (Read logs)
 
 ↓
+
 Data Scanner (Regex Detection)
 
 ↓
+
 Log Analyzer (Pattern Detection)
 
 ↓
+
 Risk Engine
 
 ↓
+
 Insights Generator
 
 ↓
+
 Output (UI + JSON)
 
 
